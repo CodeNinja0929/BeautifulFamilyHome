@@ -58,7 +58,7 @@ const CoreFeatures: React.FC = () => {
                         </li>
                         <li>
                           <Image src={arrowIcon} alt="arrow" width={28} height={10} />
-                          Date available: Today's Date 
+                          Date available: Today Date 
                         </li>
 
                         <li>
